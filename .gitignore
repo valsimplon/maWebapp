@@ -1,4 +1,5 @@
 *.class
+src/main/webapp/WEB-INF/classes/*
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
