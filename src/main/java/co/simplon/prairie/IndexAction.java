@@ -14,6 +14,6 @@ public class IndexAction {
 
     @Action
     public void view() {
-        prenom = "Eric";
+        prenom = "Valérie";
     }
 }
