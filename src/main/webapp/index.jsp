@@ -1,4 +1,3 @@
-<%@page import=".co.simplon.prairie.IndexAction" %>
 <html>
 <head>
 <title>useBean Example dans ma Webapp</title>
@@ -7,5 +6,6 @@
 
 <jsp:useBean id="date" class="java.util.Date" /> 
 <p>The date/time is <%= date %><p>
+<p>hello ${prenom}</p>
 </body>
 </html>
