@@ -1,3 +1,4 @@
+<%@page import=".co.simplon.prairie.IndexAction" %>
 <html>
 <head>
 <title>useBean Example dans ma Webapp</title>
